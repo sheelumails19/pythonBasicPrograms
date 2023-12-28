@@ -1,4 +1,4 @@
-// Write a program to take three names as input from a user in the single input() function call.
+# Write a program to take three names as input from a user in the single input() function call.
 
 def main():
     # Accept three names separated by spaces
