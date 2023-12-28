@@ -1,4 +1,4 @@
-// 	· Description: Write a function to check if a given number is a prime number.
+# Description: Write a function to check if a given number is a prime number.
  
 
 def is_prime(num):
@@ -13,4 +13,4 @@ def is_prime(num):
 print(is_prime(7))  # Output: True
 
 
-// Output: True
+# Output: True

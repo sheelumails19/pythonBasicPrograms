@@ -3,4 +3,4 @@ def reverse_string(s):
  
 print(reverse_string("Raja"))
  
-// Output: ajaR
+# Output: ajaR

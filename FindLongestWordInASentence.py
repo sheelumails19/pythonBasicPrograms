@@ -1,4 +1,4 @@
-// Description: Write a function that finds the longest word in a given sentence.
+# Description: Write a function that finds the longest word in a given sentence.
   
 def find_all_longest_words(sentence):
     words = sentence.split(' ')
@@ -11,4 +11,4 @@ longest_words = find_all_longest_words(sentence)
  
 print("Longest words:", longest_words)
  
-// Output: Longest words: ['jumped', 'overrt']
+# Output: Longest words: ['jumped', 'overrt']

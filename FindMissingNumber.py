@@ -1,4 +1,4 @@
-// Description: Given an array containing n distinct numbers taken from 0 to n, find the one that is missing from the array.
+# Description: Given an array containing n distinct numbers taken from 0 to n, find the one that is missing from the array.
  
 def find_missing_number(nums):
     n = len(nums) + 1
@@ -10,4 +10,4 @@ def find_missing_number(nums):
 nums = [1, 2, 4, 6, 3, 7, 8]
 print("Missing number:", find_missing_number(nums))
  
-// Output: Missing number: 5
+# Output: Missing number: 5

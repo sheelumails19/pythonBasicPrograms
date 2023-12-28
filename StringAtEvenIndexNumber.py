@@ -1,4 +1,4 @@
-// For example, str = "pynative" so you should display ‘p’, ‘n’, ‘t’, ‘v’.
+# For example, str = "pynative" so you should display ‘p’, ‘n’, ‘t’, ‘v’.
 
 
 # Given string

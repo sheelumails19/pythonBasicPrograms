@@ -1,4 +1,4 @@
-// 	· Description: Write a function that counts the number of words in a sentence.
+# 	· Description: Write a function that counts the number of words in a sentence.
  
 
 def count_words(sentence):
@@ -9,4 +9,4 @@ def count_words(sentence):
 print(count_words('This is a sample sentence.'))
 # Output: 5
 
-// Output: 5
+# Output: 5

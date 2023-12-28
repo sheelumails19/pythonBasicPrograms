@@ -12,4 +12,4 @@ updated_person = {**person, 'age': 31, 'job': 'Developer'}
 print(updated_person)
 
 
-// Output: {'name': 'John', 'age': 31, 'city': 'New York', 'job': 'Developer'}
+# Output: {'name': 'John', 'age': 31, 'city': 'New York', 'job': 'Developer'}

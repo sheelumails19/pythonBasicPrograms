@@ -6,4 +6,4 @@ unique_numbers = set(some_numbers)
  
 print("Unique Elements:", unique_numbers)
 
-// Unique Elements: {1, 2, 3, 4, 5, 6}
+# Unique Elements: {1, 2, 3, 4, 5, 6}

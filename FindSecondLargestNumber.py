@@ -1,4 +1,4 @@
-// 	· Description: Write a function to find the second largest number in an array.
+#  Description: Write a function to find the second largest number in an array.
  
 
 def second_largest_number(arr):
@@ -9,4 +9,4 @@ def second_largest_number(arr):
 print(second_largest_number([5, 2, 7, 1, 8, 7]))
 # Output: 7
 
-// Output: 7
+# Output: 7

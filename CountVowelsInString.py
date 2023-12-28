@@ -1,4 +1,4 @@
-// Description: Write a function that counts the number of vowels in a given string.
+# Description: Write a function that counts the number of vowels in a given string.
  
 def count_vowels(s):
     vowels = 'aeiouAEIOU'
@@ -7,4 +7,4 @@ def count_vowels(s):
 # Example usage:
 print(count_vowels('Hello World'))  # Output: 3
 
-// Output: 3
+# Output: 3

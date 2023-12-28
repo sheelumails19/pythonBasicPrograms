@@ -13,5 +13,5 @@ person['age'] = 31
 print(person)
 
 
-// Output: {'name': 'John', 'age': 31, 'city': 'New York'}
+# Output: {'name': 'John', 'age': 31, 'city': 'New York'}
 

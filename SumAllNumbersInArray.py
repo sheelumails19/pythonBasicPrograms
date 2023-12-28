@@ -1,4 +1,4 @@
-// 
+ 
 
 numbers = [1, 2, 3, 4, 5]
 sum_result = 0
@@ -9,4 +9,4 @@ for num in numbers:
 print(sum_result)
 
 
-// Output: 15
+# Output: 15
