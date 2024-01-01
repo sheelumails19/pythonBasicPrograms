@@ -1,6 +1,6 @@
 #
 n = 5
-123456789 10 
+123456789 
 for i in range(n):
     print(f"The repeating elements are: {i}")
 
