@@ -1,6 +1,5 @@
 #
 n = 5
-1
 for i in range(n):
     print(f"The repeating elements are: {i}")
 
